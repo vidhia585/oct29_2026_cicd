@@ -2,4 +2,4 @@ name: myworkflowl
 on:
   push:
 jobs:
-  myjob1
+  myjob1:
